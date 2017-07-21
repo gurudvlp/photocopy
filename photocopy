@@ -1,0 +1,18 @@
+#!/usr/bin/php
+<?php
+////////////////////////////////////////////////////////////////////////////////
+//
+//	photocopy
+//
+//	This script attempts to mount an Android device and copy any new photos
+//	to the appropriate photo directories by date.
+//
+//	This file should be placed in your home bin folder, something like:
+//		/home/guru/bin
+//	And set to executable.
+//
+////////////////////////////////////////////////////////////////////////////////
+
+require("/home/guru/Code/photocopy/photocopy.php");
+
+?>
